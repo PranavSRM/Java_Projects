@@ -1,4 +1,5 @@
 🧮 Project 1: CalculatorApp
+
 🔹 Overview
 A modern, minimalistic calculator GUI built using Java Swing, featuring a custom stack-based expression evaluator.
 It supports arithmetic operations, parentheses, decimals, and interactive button control for a smooth calculation experience.
@@ -9,6 +10,7 @@ Real-time input display (all expressions visible at once)
 Backspace (←) and Clear (C) functionalities
 Clean, realistic layout using GridLayout
 Error handling for invalid expressions and divide-by-zero cases
+
 🔹 Folder Structure
 CalculatorApp/ │ ├── src/ │ └── CalculatorApp.java
 
@@ -22,13 +24,9 @@ A Java + MySQL based database project that performs CRUD (Create, Read, Update, 
 🔹 Key Features
 
 Connects Java with MySQL seamlessly
-
 Allows adding, updating, and deleting student records
-
 Displays student data in a readable format
-
 Uses prepared statements for secure SQL queries
-
 Handles exceptions and database connectivity errors gracefully
 
 🔹 Folder Structure StudentDBApp/ │ ├── src/ │ └── StudentDBApp.java │ ├── lib/ │ └── mysql-connector-j-9.4.0.jar │ └── database/ └── studentdb.sql
@@ -68,3 +66,6 @@ MySQL Server
 MySQL Connector/J (v9.4.0)
 
 Swing (AWT)
+
+VSC (Visual Studio Code)
+
