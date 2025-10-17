@@ -1,7 +1,3 @@
-#💻 Advanced Programming Practices - Project
-A collection of advanced Java-based projects built under the Advanced Programming Practices course at SRM Institute of Science and Technology (SRMIST).
-These projects demonstrate Object-Oriented Programming, GUI Design, Database Connectivity, and Algorithmic Logic using Java and MySQL.
-
 🧮 Project 1: CalculatorApp
 🔹 Overview
 A modern, minimalistic calculator GUI built using Java Swing, featuring a custom stack-based expression evaluator.
